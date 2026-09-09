@@ -1,0 +1,17 @@
+﻿data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+data/features/*
+!data/processed/.gitkeep
+!data/features/.gitkeep
+outputs/*.csv
+!outputs/charts/
+!outputs/video_tables.xlsx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
